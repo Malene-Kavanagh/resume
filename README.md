@@ -5,6 +5,8 @@ It has been reworked and documented on GitHub by [Elsa Gonsiorowski](https://git
 
 ## My content
 
+links are faulty *work in progress*
+
 | Username | Webpage | Source |
 |----------|---------|--------|
 | [@Malene-Kavanagh](http://github.com/Malene-Kavanagh) | [Resume](http://.com/cv.html) | [On GitHub](https://github.com/Malene-Kavanagh/Malene-Kavanagh.github.io) |
