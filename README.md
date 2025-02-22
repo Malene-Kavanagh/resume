@@ -1,2 +1,2 @@
 # resume
-Cthulhu-resume code from Elsa Gonsiorows 
+Cthulhu-resume code from Elsa Gonsiorowski @gonsie on git 
